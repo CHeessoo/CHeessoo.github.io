@@ -932,8 +932,8 @@
 /* Header */
 
 	#header {
-		background: #E6E6FA;
-		color: #4B0082;
+		background: #A4907C;
+		color: #C8B6A6;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -943,19 +943,19 @@
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #4B0082;
+			color: #8D7B68;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: #4B0082;
+				color: #8D7B68;
 			}
 
 		#header header p {
-			color: #4B0082;
+			color: #8D7B68;
 		}
 
 		#header a {
-			color: #4B0082;
+			color: #8D7B68;
 		}
 
 			#header a:hover {
