@@ -1057,7 +1057,7 @@
 /* One */
 
 	#one:before {
-		/* background-image: url("../images/ "); */ 
+		background-image: url("../images/banner_dongdong.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
