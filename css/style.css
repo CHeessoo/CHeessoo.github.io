@@ -15,7 +15,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #888;
+		color: #666666;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -169,7 +169,7 @@
 	}
 
 	header p {
-		color: #aaa;
+		color: #666666;
 		position: relative;
 		margin: 0 0 1.6875em 0;
 	}
@@ -1005,6 +1005,10 @@
 
 		#main > section:first-child {
 			border-top: 0;
+		}
+
+		#one h3 {
+			padding-bottom: 5%;
 		}
 
 /* One */
