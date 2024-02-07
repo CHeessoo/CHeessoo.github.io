@@ -103,7 +103,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #f4f4f4;
+		border-bottom: solid 2px #8c99a6;
 		margin: 2.25em 0;
 	}
 
@@ -121,7 +121,7 @@
 	code {
 		background: #555;
 		border-radius: 5px;
-		color: #fff;
+		color: #F6F5F5;
 		font-family: "Source Code Pro", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -758,7 +758,7 @@
 		input[type="button"]:hover,
 		.button:hover {
 			background-color: #a5a5a5;
-			color: #ffffff !important;
+			color: #F6F5F5 !important;
 		}
 
 		input[type="submit"]:active,
@@ -839,7 +839,7 @@
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #8c99a6;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -996,7 +996,7 @@
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #30475E;
 	}
 
 		#main > section > .container {
