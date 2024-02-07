@@ -1011,8 +1011,8 @@
 			padding-bottom: 5%;
 		}
 
-		#three features {
-			padding-top: 10%;
+		#three .features {
+			margin-top: 10%;
 		}
 
 /* One */
